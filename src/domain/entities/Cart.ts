@@ -9,4 +9,3 @@ export type Cart = {
   items: CartItem[];
   totalPrice: number;
 };
-
